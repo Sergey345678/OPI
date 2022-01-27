@@ -1,0 +1,10 @@
+D:\BSUIR\FitnessClub\FitnessClub\bin\Debug\FitnessClub.exe.config
+D:\BSUIR\FitnessClub\FitnessClub\bin\Debug\FitnessClub.exe
+D:\BSUIR\FitnessClub\FitnessClub\bin\Debug\FitnessClub.pdb
+D:\BSUIR\FitnessClub\FitnessClub\obj\Debug\FitnessClub.csproj.AssemblyReference.cache
+D:\BSUIR\FitnessClub\FitnessClub\obj\Debug\FitnessClub.Form1.resources
+D:\BSUIR\FitnessClub\FitnessClub\obj\Debug\FitnessClub.Properties.Resources.resources
+D:\BSUIR\FitnessClub\FitnessClub\obj\Debug\FitnessClub.csproj.GenerateResource.cache
+D:\BSUIR\FitnessClub\FitnessClub\obj\Debug\FitnessClub.csproj.CoreCompileInputs.cache
+D:\BSUIR\FitnessClub\FitnessClub\obj\Debug\FitnessClub.exe
+D:\BSUIR\FitnessClub\FitnessClub\obj\Debug\FitnessClub.pdb
